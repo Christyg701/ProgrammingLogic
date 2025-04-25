@@ -62,7 +62,7 @@ class Program
      string description=myCar.GetDescription();
     Console.WriteLine($"Car Description: {description}");  
      myCar.Repaint("red");
-;
+
 
   }
 }
