@@ -41,7 +41,3 @@ class Program
    Console.WriteLine(College);
     }
 }
-
-
-
-
